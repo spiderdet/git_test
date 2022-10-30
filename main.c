@@ -4,6 +4,6 @@
 
 int main() {
     // xxxxxxxxxxxxxxxxxx
-    // yyyyyyyyyyyyyyyy
-
+    // fagsdgdasf
+    int k = 1;
 }
