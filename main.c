@@ -3,7 +3,5 @@
 #include "test.h"
 
 int main() {
-    // xxxxxxxxxxxxxxxxxx
-    // yyyyyyyyyyyyyyyy
-
+    //this is brand new line excluded for master branch
 }
